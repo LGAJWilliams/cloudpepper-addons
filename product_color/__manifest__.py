@@ -1,7 +1,7 @@
 {
     'name': 'Product Color Customization',
     'description': 'Adds a color field to the product template model.',
-    'version': '1.0',
+    'version': '18.0.1.0.0',
     'depends': ['mis_color_picker'],  # Depends on the color picker addon
     'data': [
         'models.py',
