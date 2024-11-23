@@ -1,6 +1,6 @@
 {
     "name": "MIS Color Picker Widget",
-    "version": "17.0.1.0.0",
+    "version": "18.0.1.0.0",
     "summary": "MIS Color Picker Widget",
     "description": """
         The Color Picker Widget is a custom field widget for Odoo that allows users to select colors using a modern and intuitive color picker. This widget supports both HEX and RGB color formats and provides a set of popular colors for quick selection.
