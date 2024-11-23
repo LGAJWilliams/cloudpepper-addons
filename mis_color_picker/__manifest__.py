@@ -21,7 +21,7 @@
         "web.assets_backend": [
             "mis_color_picker/static/src/lib/nano.min.css",
             "mis_color_picker/static/src/lib/pickr.min.js",
-            "mis_color_picker/static/src/js/color_picker.js",
+            "mis_color_picker/static/src/js/color_picker_field.js",
             "mis_color_picker/static/src/xml/color_picker_template.xml",
         ],
     },
