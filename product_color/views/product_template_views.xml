@@ -9,7 +9,7 @@
                 <xpath expr="//page[@name='general_information']" position="after">
                     <page name="color_information" string="Color Information">
                         <group>
-                            <field name="x_studio_glass_colors" widget="mis_color_picker"/>
+                            <field name="glass_colors" widget="mis_color_picker"/>
                         </group>
                     </page>
                 </xpath>
