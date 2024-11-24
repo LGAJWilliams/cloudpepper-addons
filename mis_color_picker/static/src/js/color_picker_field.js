@@ -88,10 +88,10 @@ class ColorPickerField extends Component {
         }
     }
 
-    isInTreeView() {
-        // Implement logic to determine if the field is in a tree view
-        // This is a placeholder and should be replaced with actual logic
-        return this.props.isTreeView || false;
+     isInTreeView() {
+    // Check if the field is rendered within a table (tree view)
+    const isTable = this.el.closest('table.o_list_view');
+    return !!isTable;
     }
 }
 
